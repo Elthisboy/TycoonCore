@@ -3,7 +3,7 @@
 ## Project Identity
 - **Name:** TycoonCore
 - **Mod ID:** `tycooncore`
-- **Version:** `${version}` (Resolved at build time)
+- **Version:** `1.0.6` (Resolved at build time)
 
 ## Technical Summary
 The **TycoonCore** mod functions as the comprehensive, centralized engine for a gym/business tycoon-style custom map. It orchestrates a massive suite of interdependent systems via deep integration with Fabric lifecycle events (`ServerTickEvents`). Its core loop manages live gym sessions that generate passive scoreboard income, tracks player fitness progression, and handles custom interactive equipment blocks (e.g., locking player movement during treadmill/weightlifting animations). Furthermore, it features a complex JSON-driven upgrade registry and networking layer that instantly synchronizes bossbars, active sabotage events, and persistent player data to the client upon connection.
