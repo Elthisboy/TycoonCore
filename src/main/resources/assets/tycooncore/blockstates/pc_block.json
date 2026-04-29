@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tycooncore:block/pc_block" },
+    "facing=east":  { "model": "tycooncore:block/pc_block", "y": 90 },
+    "facing=south": { "model": "tycooncore:block/pc_block", "y": 180 },
+    "facing=west":  { "model": "tycooncore:block/pc_block", "y": 270 }
+  }
+}

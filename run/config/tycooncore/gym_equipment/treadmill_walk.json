@@ -1,0 +1,24 @@
+{
+  "animationSpeed": 1.0,
+  "loopDuration": 10,
+  "lockPlayer": true,
+  "sounds": {
+    "enabled": true,
+    "soundId": "minecraft:block.gravel.step",
+    "volume": 0.4,
+    "pitch": 1.2,
+    "intervalTicks": 5
+  },
+  "commands": {
+    "enabled": false,
+    "source": "player",
+    "onStart": [],
+    "onTick": [],
+    "onStop": []
+  },
+  "visualEffects": {
+    "particles": false,
+    "particleType": "minecraft:sweat_droplets",
+    "highlight": false
+  }
+}

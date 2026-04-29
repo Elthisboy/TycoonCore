@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tycooncore:block/weights" },
+    "facing=east":  { "model": "tycooncore:block/weights", "y": 90 },
+    "facing=south": { "model": "tycooncore:block/weights", "y": 180 },
+    "facing=west":  { "model": "tycooncore:block/weights", "y": 270 }
+  }
+}

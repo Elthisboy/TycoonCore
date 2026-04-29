@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tycooncore:block/dumbbell_bench" },
+    "facing=east":  { "model": "tycooncore:block/dumbbell_bench", "y": 90 },
+    "facing=south": { "model": "tycooncore:block/dumbbell_bench", "y": 180 },
+    "facing=west":  { "model": "tycooncore:block/dumbbell_bench", "y": 270 }
+  }
+}

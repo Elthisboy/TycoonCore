@@ -1,0 +1,151 @@
+[
+  {
+    "id": "trainer",
+    "category": "Staff",
+    "max_level": 3,
+    "base_cost": 600,
+    "cost_multiplier": 1.6,
+    "required_tier": 1,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§c§lPersonal Trainer Hired!",
+        "params": { "subtitle": "§7Level {level} — client retention goes up", "stay": "70" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/personal_gym1.npc.nbt 42 -29 121",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/personal_gym2.npc.nbt 42 -29 121",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/personal_gym3.npc.nbt 42 -29 121",
+        "params": { "only_level": "3" }
+      }
+    ],
+    "effects": { "income_bonus": 10 }
+  },
+  {
+    "id": "trainer_t2",
+    "category": "Staff",
+    "max_level": 3,
+    "base_cost": 2500,
+    "cost_multiplier": 1.6,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§c§lPersonal Trainer Hired!",
+        "params": { "subtitle": "§7Level {level} — client retention goes up", "stay": "70" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/personal_gym1.npc.nbt 219 -34 127",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/personal_gym2.npc.nbt 219 -34 127",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/personal_gym3.npc.nbt 219 -34 127",
+        "params": { "only_level": "3" }
+      }
+    ],
+    "effects": { "income_bonus": 15 }
+  },
+  {
+    "id": "manager",
+    "category": "Staff",
+    "max_level": 3,
+    "base_cost": 3000,
+    "cost_multiplier": 1.7,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§6[Gym] §e{player}§7 promoted their manager to §6Level {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§6§lGym Manager Promoted!",
+        "params": { "subtitle": "§7Level {level} — smoother operations, more revenue", "stay": "70" }
+      }
+    ],
+    "effects": { "income_bonus": 20 }
+  },
+  {
+    "id": "nutritionist",
+    "category": "Staff",
+    "max_level": 3,
+    "base_cost": 2500,
+    "cost_multiplier": 1.5,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§a§lNutritionist Hired!",
+        "params": { "subtitle": "§7Level {level} — healthier clients stay longer", "stay": "70" }
+      },
+      {
+        "type": "command",
+        "value": "easy_npc preset import custom easy_npc:preset/humanoid/nutritionist_1.npc.nbt 219 -34 127",
+        "params": { "only_level": "1" }
+      }
+    ],
+    "effects": { "income_bonus": 15 }
+  },
+  {
+    "id": "elite_trainer",
+    "category": "Staff",
+    "max_level": 3,
+    "base_cost": 9000,
+    "cost_multiplier": 1.8,
+    "required_tier": 3,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§c[Gym] §e{player}§7 hired an §cELITE TRAINER§7 — §cLevel {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§c§lElite Trainer Hired!",
+        "params": { "subtitle": "§7Level {level} — world-class coaching unlocked", "stay": "80" }
+      }
+    ],
+    "effects": { "income_bonus": 35 }
+  },
+  {
+    "id": "senior_manager",
+    "category": "Staff",
+    "max_level": 3,
+    "base_cost": 12000,
+    "cost_multiplier": 1.9,
+    "required_tier": 3,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§5[Gym] §e{player}§7 promoted a §5SENIOR MANAGER§7 — §5Level {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§5§lSenior Manager!",
+        "params": { "subtitle": "§7Level {level} — peak gym efficiency reached", "stay": "80" }
+      }
+    ],
+    "effects": { "income_bonus": 45 }
+  }
+]

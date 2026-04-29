@@ -1,0 +1,24 @@
+{
+  "animationSpeed": 1.0,
+  "loopDuration": 40,
+  "lockPlayer": false,
+  "sounds": {
+    "enabled": true,
+    "soundId": "minecraft:block.iron_door.open",
+    "volume": 0.2,
+    "pitch": 0.9,
+    "intervalTicks": 40
+  },
+  "commands": {
+    "enabled": false,
+    "source": "player",
+    "onStart": [],
+    "onTick": [],
+    "onStop": []
+  },
+  "visualEffects": {
+    "particles": false,
+    "particleType": "minecraft:sweat_droplets",
+    "highlight": false
+  }
+}

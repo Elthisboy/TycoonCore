@@ -1,0 +1,7 @@
+{
+  "parent": "tycooncore:block/weights",
+  "textures": {
+    "0": "tycooncore:block/weights_dirt",
+    "particle": "tycooncore:block/weights_dirt"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "scoreboardName": "money",
+  "currencySymbol": "$",
+  "position": "top_right",
+  "xOffset": 6,
+  "yOffset": 20,
+  "scale": 1.0,
+  "backgroundEnabled": true,
+  "backgroundOpacity": 0.75,
+  "iconEnabled": true,
+  "accentColor": "#FFD700",
+  "labelColor": "#AAAAAA",
+  "valueColor": "#FFFFFF",
+  "symbolColor": "#FFD700",
+  "animationEnabled": true,
+  "defaultHudTier": 1,
+  "enabledByDefault": true
+}

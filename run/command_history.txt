@@ -1,0 +1,50 @@
+/cpmclient animate
+/cpmclient reset_model
+/cpmclient animate weight
+/cpmclient set_model animation.cpmmodel
+/cpmclient animate weight
+/cpmclient animate stop
+/cpmclient animate weight 0
+/cpmclient animate weight 100
+/cpmclient animate weight 0
+/cpmclient animate weight
+/cpmclient reset_model
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient animate weight
+/cpmclient animate weight 0
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient set_model fit.cpmmodel.cpmmodel
+/cpmclient set_model fit1.cpmmodel
+/cpmclient set_model skinny1.cpmmodel1.cpmmodel
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient animate weight 0
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient animate
+/cpmclient animate weight
+/cpmclient profile Player196
+/cpmclient safety
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient animate weight
+/cpmclient animate weight 100
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient reset_model
+/cpmclient set_model skinny1.cpmmodel
+/cpmclient animate weight
+/cpmclient animate
+/cpmclient set_model skinny1.cpmmodel
+/scoreboard players add @p money 1000
+/scoreboard players add @p money 10000
+/tycoon tier_up
+/tycoon tier_up Player894
+/scoreboard players add @p money 10000
+/tycoon tier_up
+/scoreboard players add @p money 10000
+/tycoon tier_up
+/scoreboard players add @p money 10000
+/tycoon tier_up
+/scoreboard players add @p money 10000
+/tycoon tier_up
+/scoreboard players add @p money 100000
+/tycoon tier_up
+/tycoon reset @p
+/tycoon tier_up

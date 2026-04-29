@@ -1,0 +1,61 @@
+[
+  {
+    "id": "income_basic",
+    "category": "Passive Income",
+    "max_level": 3,
+    "base_cost": 500,
+    "cost_multiplier": 1.5,
+    "required_tier": 1,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§6§lRevenue Stream Active!",
+        "params": { "subtitle": "§7Level {level} — passive income now generating", "stay": "60" }
+      }
+    ],
+    "effects": { "income_bonus": 10 }
+  },
+  {
+    "id": "income_advanced",
+    "category": "Passive Income",
+    "max_level": 3,
+    "base_cost": 3500,
+    "cost_multiplier": 1.6,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§6[Gym] §e{player}§7 launched an advanced revenue stream — §6Level {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§6§lAdvanced Revenue!",
+        "params": { "subtitle": "§7Level {level} — membership plans and merchandise online", "stay": "60" }
+      }
+    ],
+    "effects": { "income_bonus": 25 }
+  },
+  {
+    "id": "income_premium",
+    "category": "Passive Income",
+    "max_level": 3,
+    "base_cost": 15000,
+    "cost_multiplier": 1.8,
+    "required_tier": 3,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§5[Gym] §e{player}§7 unlocked a §5PREMIUM§7 revenue stream — §5Level {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§5§lPremium Revenue!",
+        "params": { "subtitle": "§7Level {level} — VIP memberships and exclusive events unlocked", "stay": "80" }
+      }
+    ],
+    "effects": { "income_bonus": 55 }
+  }
+]

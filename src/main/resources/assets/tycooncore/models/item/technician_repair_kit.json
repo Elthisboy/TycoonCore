@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tycooncore:item/technician_repair_kit"
+  }
+}

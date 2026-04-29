@@ -1,0 +1,63 @@
+{
+  "pointsPerTick": 1,
+  "scoreboardObjective": "tycoon_fitness",
+  "scoreboardDisplayName": "Ejercitado",
+  "milestones": [
+    {
+      "threshold": 200,
+      "label": "Recién Empezando",
+      "repeatable": false,
+      "commands": [
+        "say §e%player% §7ha conseguido el rango: §b%label%"
+      ]
+    },
+    {
+      "threshold": 1000,
+      "label": "En Forma",
+      "repeatable": false,
+      "commands": [
+        "say §e%player% §7ha conseguido el rango: §a%label%"
+      ]
+    },
+    {
+      "threshold": 5000,
+      "label": "Atleta",
+      "repeatable": false,
+      "commands": [
+        "say §e%player% §7ha conseguido el rango: §6%label%",
+        "give %player% minecraft:golden_apple 1"
+      ]
+    },
+    {
+      "threshold": 20000,
+      "label": "Élite",
+      "repeatable": false,
+      "commands": [
+        "say §e%player% §7ha conseguido el rango: §c%label%",
+        "give %player% minecraft:diamond 3"
+      ]
+    }
+  ],
+  "bodyModels": [
+    {
+      "threshold": 0,
+      "model": "skinny1.cpmmodel"
+    },
+    {
+      "threshold": 200,
+      "model": "skinny2.cpmmodel"
+    },
+    {
+      "threshold": 1000,
+      "model": "fit.cpmmodel"
+    },
+    {
+      "threshold": 5000,
+      "model": "fi2.cpmmodel"
+    },
+    {
+      "threshold": 20000,
+      "model": "ultrafit.cpmmodel"
+    }
+  ]
+}

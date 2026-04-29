@@ -1,0 +1,24 @@
+{
+  "animationSpeed": 1.0,
+  "loopDuration": 20,
+  "lockPlayer": false,
+  "sounds": {
+    "enabled": false,
+    "soundId": "minecraft:block.anvil.land",
+    "volume": 0.35,
+    "pitch": 1.2,
+    "intervalTicks": 20
+  },
+  "commands": {
+    "enabled": false,
+    "source": "player",
+    "onStart": [],
+    "onTick": [],
+    "onStop": []
+  },
+  "visualEffects": {
+    "particles": false,
+    "particleType": "minecraft:sweat_droplets",
+    "highlight": false
+  }
+}

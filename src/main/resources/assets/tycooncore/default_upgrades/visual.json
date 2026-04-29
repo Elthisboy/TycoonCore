@@ -1,0 +1,236 @@
+[
+  {
+    "id": "floor_upgrade",
+    "category": "Visual",
+    "max_level": 3,
+    "base_cost": 200,
+    "cost_multiplier": 1.5,
+    "required_tier": 1,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§b§lFloor Upgraded!",
+        "params": { "subtitle": "§7Level {level} — clients love the new floor", "stay": "60" }
+      },
+      {
+        "type": "command",
+        "value": "fill 48 -30 110 40 -30 125 minecraft:smooth_stone replace minecraft:grass_block",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "fill 48 -30 110 40 -30 125 minecraft:smooth_stone replace minecraft:grass_block",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "fill 48 -30 109 40 -30 100 minecraft:smooth_stone replace minecraft:grass_block",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "fill 47 -30 113 41 -30 124 minecraft:gray_concrete replace minecraft:smooth_stone",
+        "params": { "only_level": "3" }
+      }
+    ],
+    "effects": { "income_bonus": 5 }
+  },
+  {
+    "id": "wall_upgrade",
+    "category": "Visual",
+    "max_level": 2,
+    "base_cost": 300,
+    "cost_multiplier": 1.5,
+    "required_tier": 1,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§b§lWall Upgraded!",
+        "params": { "subtitle": "§7Level {level} — fresh paint, more clients", "stay": "60" }
+      },
+      {
+        "type": "command",
+        "value": "fill 50 -30 127 39 -24 99 minecraft:light_gray_concrete replace minecraft:oak_planks",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "fill 49 -28 112 49 -26 123 minecraft:glass_pane replace minecraft:light_gray_concrete",
+        "params": { "only_level": "2" }
+      }
+    ],
+    "effects": { "income_bonus": 5 }
+  },
+  {
+    "id": "equipment_upgrade",
+    "category": "Visual",
+    "max_level": 3,
+    "base_cost": 400,
+    "cost_multiplier": 1.5,
+    "required_tier": 1,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§6§lEquipment Upgraded!",
+        "params": { "subtitle": "§7Level {level} — better machines attract more members", "stay": "60" }
+      },
+      {
+        "type": "command",
+        "value": "fill 48 -29 100 40 -29 125 tycooncore:weights replace tycooncore:weights_dirt",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "setblock 48 -29 111 tycooncore:gym_bench",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "setblock 48 -29 112 tycooncore:gym_bench",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "setblock 44 -29 123 tycooncore:gym_treadmill",
+        "params": { "only_level": "3" }
+      },
+      {
+        "type": "command",
+        "value": "setblock 44 -29 118 tycooncore:gym_treadmill",
+        "params": { "only_level": "3" }
+      },
+      {
+        "type": "command",
+        "value": "setblock 44 -29 114 tycooncore:gym_treadmill",
+        "params": { "only_level": "3" }
+      }
+    ],
+    "effects": { "income_bonus": 10 }
+  },
+  {
+    "id": "floor_t2",
+    "category": "Visual",
+    "max_level": 2,
+    "base_cost": 1500,
+    "cost_multiplier": 1.5,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§b§lFloor Upgraded!",
+        "params": { "subtitle": "§7Level {level} — premium flooring installed", "stay": "60" }
+      },
+      {
+        "type": "command",
+        "value": "fill 224 -35 120 215 -35 138 minecraft:gray_concrete replace minecraft:white_concrete",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "fill 228 -35 115 223 -35 106 minecraft:gray_concrete replace minecraft:white_concrete",
+        "params": { "only_level": "2" }
+      }
+    ],
+    "effects": { "income_bonus": 10 }
+  },
+  {
+    "id": "wall_t2",
+    "category": "Visual",
+    "max_level": 3,
+    "base_cost": 1800,
+    "cost_multiplier": 1.5,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§b§lWall Upgraded!",
+        "params": { "subtitle": "§7Level {level} — modern walls, more clients", "stay": "60" }
+      },
+      {
+        "type": "command",
+        "value": "fill 50 -30 127 39 -24 99 minecraft:light_gray_concrete replace minecraft:cyan_terracotta",
+        "params": { "only_level": "1" }
+      },
+      {
+        "type": "command",
+        "value": "fill 230 -34 107 230 -29 115 minecraft:glass_pane replace minecraft:cyan_terracotta",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "fill 226 -34 125 226 -28 125 minecraft:glass_pane replace minecraft:cyan_terracotta",
+        "params": { "only_level": "2" }
+      },
+      {
+        "type": "command",
+        "value": "fill 231 -27 95 209 -27 147 minecraft:quartz_block replace minecraft:cyan_terracotta",
+        "params": { "only_level": "3" }
+      }
+    ],
+    "effects": { "income_bonus": 10 }
+  },
+  {
+    "id": "better_equipment",
+    "category": "Visual",
+    "max_level": 3,
+    "base_cost": 2500,
+    "cost_multiplier": 1.6,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§6[Gym] §e{player}§7 upgraded to better equipment — §6Level {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§6§lBetter Equipment!",
+        "params": { "subtitle": "§7Level {level} — premium machines attract serious athletes", "stay": "70" }
+      }
+    ],
+    "effects": { "income_bonus": 20 }
+  },
+  {
+    "id": "decoration",
+    "category": "Visual",
+    "max_level": 3,
+    "base_cost": 8000,
+    "cost_multiplier": 1.7,
+    "required_tier": 3,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§d§lGym Decorated!",
+        "params": { "subtitle": "§7Level {level} — clients love the atmosphere", "stay": "60" }
+      }
+    ],
+    "effects": { "income_bonus": 30 }
+  },
+  {
+    "id": "premium_equipment",
+    "category": "Visual",
+    "max_level": 3,
+    "base_cost": 10000,
+    "cost_multiplier": 1.8,
+    "required_tier": 3,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§5[Gym] §e{player}§7 installed §5PREMIUM§7 equipment — §5Level {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§5§lPremium Equipment!",
+        "params": { "subtitle": "§7Level {level} — elite athletes are flocking to your gym", "stay": "80" }
+      }
+    ],
+    "effects": { "income_bonus": 40 }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "scoreboard_name": "money",
+  "currency_symbol": "$",
+  "enable_passive_income": true,
+  "passive_income_interval_ticks": 200,
+  "tier_locations": {
+    "2": { "x": 226.5, "y": -34.0, "z": 118.5, "yaw": 0.0 },
+    "3": { "x": 421.5, "y": -40.0, "z": 122.5, "yaw": 0.0 }
+  },
+  "tier_commands": {},
+  "supervisor_countdown_seconds": 10,
+  "supervisor_approval_commands": {}
+}

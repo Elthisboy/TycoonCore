@@ -1,0 +1,215 @@
+{
+  "block.tycooncore.pc_block": "PC",
+  "screen.tycooncore.pc": "PC Management",
+
+  "pc.title": "Gym Management PC",
+  "pc.loading": "Loading data…",
+
+  "pc.bossbar": "Tier %s | Progress: %s/%s",
+  "pc.bossbar.max": "Tier %s | ★ MAX TIER ★",
+
+  "pc.category.visual": "Visual",
+  "pc.category.staff": "Staff",
+  "pc.category.passive_income": "Passive Income",
+  "pc.category.stat": "Stats",
+
+  "pc.footer.tier": "Tier: %s",
+  "pc.footer.progress": "Progress: %s/%s",
+  "pc.footer.balance": "Balance: %s",
+
+  "pc.label.level": "Lv. %s",
+  "pc.label.max": "MAX",
+  "pc.label.cost": "Cost: %s",
+
+  "pc.button.buy": "Buy",
+  "pc.button.maxed": "Maxed",
+  "pc.button.locked": "Locked",
+
+  "pc.error.not_enough_money": "Not enough money.",
+  "pc.error.max_level": "This upgrade is already at max level.",
+  "pc.error.requires_tier": "Requires Tier %s.",
+  "pc.error.unknown_upgrade": "Unknown upgrade.",
+  "pc.error.scoreboard_not_found": "Economy scoreboard not found. Ask an admin to set it up.",
+  "pc.error.server_unavailable": "Server unavailable.",
+
+  "pc.tier_up": "Tier up! You are now Tier %s.",
+  "pc.upgrade.purchased": "Purchased %s (Level %s).",
+
+  "pc.upgrade.floor_upgrade.name": "Floor Upgrade",
+  "pc.upgrade.floor_upgrade.desc": "Improve your gym's flooring. Better floors attract more clients.",
+
+  "pc.upgrade.wall_upgrade.name": "Wall Upgrade",
+  "pc.upgrade.wall_upgrade.desc": "Renovate the walls for a more professional look.",
+
+  "pc.upgrade.lighting_upgrade.name": "Lighting Upgrade",
+  "pc.upgrade.lighting_upgrade.desc": "Install better lighting to improve the atmosphere.",
+
+  "pc.upgrade.equipment_upgrade.name": "Equipment Upgrade",
+  "pc.upgrade.equipment_upgrade.desc": "Upgrade your gym equipment to attract serious athletes.",
+
+  "pc.upgrade.floor_t2.name": "Premium Floor",
+  "pc.upgrade.floor_t2.desc": "Install high-quality flooring in your new gym.",
+  "pc.upgrade.wall_t2.name": "Modern Walls",
+  "pc.upgrade.wall_t2.desc": "Renovate the walls of the second gym with premium materials.",
+  "pc.upgrade.exterior_upgrade.name": "Exterior Upgrade",
+  "pc.upgrade.exterior_upgrade.desc": "Improve the outside of your gym. First impressions matter.",
+
+  "pc.upgrade.trainer.name": "Personal Trainer",
+  "pc.upgrade.trainer.desc": "Hire a personal trainer to boost client satisfaction and income.",
+  "pc.upgrade.trainer_t2.name": "Personal Trainer",
+  "pc.upgrade.trainer_t2.desc": "Hire a personal trainer for the new gym.",
+
+  "pc.upgrade.manager.name": "Gym Manager",
+  "pc.upgrade.manager.desc": "A manager keeps things running smoothly, reducing downtime.",
+
+  "pc.upgrade.nutritionist.name": "Nutritionist",
+  "pc.upgrade.nutritionist.desc": "Offer nutrition advice to retain clients longer.",
+
+  "pc.upgrade.marketing.name": "Marketing Campaign",
+  "pc.upgrade.marketing.desc": "Run campaigns to attract new clients and boost passive income.",
+
+  "pc.upgrade.income_basic.name": "Basic Revenue Stream",
+  "pc.upgrade.income_basic.desc": "Set up a basic passive income stream for your gym.",
+
+  "pc.upgrade.income_advanced.name": "Advanced Revenue Stream",
+  "pc.upgrade.income_advanced.desc": "Diversify income with membership plans and merchandise.",
+
+  "pc.upgrade.income_premium.name": "Premium Revenue Stream",
+  "pc.upgrade.income_premium.desc": "Unlock premium services like VIP memberships and events.",
+
+  "pc.upgrade.speed_boost.name": "Speed Training",
+  "pc.upgrade.speed_boost.desc": "Faster service means happier clients and more income per second.",
+
+  "pc.upgrade.efficiency.name": "Efficiency Training",
+  "pc.upgrade.efficiency.desc": "Optimise gym operations — less waste, more revenue every second.",
+
+  "pc.upgrade.better_equipment.name": "Better Equipment",
+  "pc.upgrade.better_equipment.desc": "Upgrade to premium machines that attract serious athletes and boost income.",
+
+  "pc.upgrade.decoration.name": "Gym Decoration",
+  "pc.upgrade.decoration.desc": "Give your gym a polished look. Clients stay longer and spend more.",
+
+  "pc.upgrade.premium_equipment.name": "Premium Equipment",
+  "pc.upgrade.premium_equipment.desc": "Install elite-grade equipment. Only the best gyms have it.",
+
+  "pc.upgrade.full_gym.name": "Full Gym",
+  "pc.upgrade.full_gym.desc": "Offer a complete gym experience — every client finds exactly what they need.",
+
+  "pc.upgrade.elite_trainer.name": "Elite Trainer",
+  "pc.upgrade.elite_trainer.desc": "Hire a world-class trainer. Reputation skyrockets, income follows.",
+
+  "pc.upgrade.senior_manager.name": "Senior Manager",
+  "pc.upgrade.senior_manager.desc": "A veteran manager optimises every aspect of your gym's operations.",
+
+  "pc.upgrade.vip_lounge.name": "VIP Lounge",
+  "pc.upgrade.vip_lounge.desc": "Open an exclusive lounge for top-tier members. Premium clients pay premium prices.",
+
+  "pc.upgrade.head_coach.name": "Head Coach",
+  "pc.upgrade.head_coach.desc": "Appoint a championship-level head coach. The best talent flocks to your gym.",
+
+  "pc.upgrade.sponsorship.name": "Sponsorship Deal",
+  "pc.upgrade.sponsorship.desc": "Secure corporate sponsors. Brand money flows in every second.",
+
+  "pc.upgrade.production_rate.name": "Production Rate",
+  "pc.upgrade.production_rate.desc": "Push your gym's output to the absolute limit and earn more per second.",
+
+  "pc.command.event.sabotage": "/pc event sabotage <target> [duration] [penalty]",
+  "pc.command.event.recovery": "/pc event recovery <target> <bonus>",
+  "pc.command.event.mission":  "/pc event mission <target> <reward> <progress>",
+
+  "item.tycooncore.repair_kit": "Repair Kit",
+  "item.tycooncore.repair_kit.tooltip": "§7Use it at the PC to pay part of the penalty and resolve the sabotage.",
+  "item.tycooncore.technician_repair_kit": "Technician's Repair Kit",
+  "item.tycooncore.technician_repair_kit.tooltip": "§7Right-click a sabotaged player to repair their systems as a technician.",
+
+  "pc.boot.offline": "§8— SYSTEM OFFLINE —",
+  "pc.boot.power_on": "§8● §2POWER ON",
+  "pc.boot.power_on_hover": "§a● §2POWER ON",
+  "pc.boot.hint": "§8Click to start",
+
+  "pc.sabotage.title": "§c⚠ §f§lSYSTEM COMPROMISED §c⚠",
+  "pc.sabotage.subtitle": "§7Passive income is §cblocked",
+  "pc.sabotage.tech_called": "§e⚙ Technician called — §7waiting for arrival...",
+  "pc.sabotage.expires": "§8Expires in: §e%ss",
+  "pc.sabotage.btn.pay": "§cPay §6(%s)",
+  "pc.sabotage.btn.kit": "§bRep. Kit",
+  "pc.sabotage.btn.called": "§a✓ Called",
+  "pc.sabotage.btn.tech": "§eCall Tech.",
+
+  "pc.footer.blocked": "§c⚠ §c§lBLOCKED",
+  "pc.footer.max_tier": "§6✦ §eMAX TIER",
+
+  "tycoon.sabotage.started": "§c[Sabotage] §7Your gym has been compromised! Passive income is §cblocked§7. Resolve within §e%ss§7 or lose §c%s§7.",
+  "tycoon.sabotage.pay.no_money": "§c[Sabotage] §7You need §c%s§7 to pay for repairs. (You have §c%s§7)",
+  "tycoon.sabotage.pay.resolved": "§a[Sabotage] §7Paid §c%s§7 for emergency repairs. Systems restored!",
+  "tycoon.sabotage.item.no_kit": "§c[Sabotage] §7You need §e1 Repair Kit§7 in your inventory to use this solution.",
+  "tycoon.sabotage.item.resolved": "§a[Sabotage] §7Used a §eRepair Kit§7 to fix the sabotaged systems. All good!",
+  "tycoon.sabotage.tech.already_called": "§e[Sabotage] §7You already called a technician. Wait for them to arrive.",
+  "tycoon.sabotage.tech.requested": "§e[Sabotage] §7Technician requested! A technician will come to check your gym. §8(Stay near the PC)",
+  "tycoon.sabotage.tech.broadcast": "§e[Technician] §f%s §7has requested a technician for their sabotage. Use the §eTechnician Kit§7 to go and repair.",
+  "tycoon.sabotage.tech.no_active": "§c[Technician] §7%s has no active sabotage.",
+  "tycoon.sabotage.tech.resolved_victim": "§a[Sabotage] §7Technician §f%s§7 has repaired your systems. Income restored!",
+  "tycoon.sabotage.tech.confirmed": "§a[Technician] §7Repair complete for §f%s§7. Great work!",
+  "tycoon.sabotage.expired": "§c[Sabotage] §7Time's up! §c%s§7 has been deducted as a penalty.",
+
+  "tycoon.income.blocked": "§c⚠ §7Gym income blocked — resolve the sabotage!",
+  "tycoon.income.tick": "§a+%s§7/s",
+  "tycoon.income.no_scoreboard": "§c[Gym] §7Economy scoreboard not configured. Contact an admin.",
+  "tycoon.income.increase": "§a[Income] §7+%s %s/s added — now §a+%s§7/s",
+
+  "tycoon.night.login_closed": "§c[Gym] §7Your gym was open but it is now night. §8Reopen at dawn.",
+  "tycoon.night.closed": "§c✦ [Gym] §7Night has fallen! Your gym has closed. §8Reopen at dawn to keep earning.",
+  "tycoon.night.dawn": "§e✦ [Gym] §7Dawn has arrived! You can open your gym now.",
+  "tycoon.night.blocked": "§c[Gym] §7You cannot open the gym at night. Wait for dawn!",
+
+  "tycoon.gym.already_open": "§e[Gym] §7Your gym is already open.",
+  "tycoon.gym.already_closed": "§e[Gym] §7Your gym is already closed.",
+  "tycoon.gym.opened": "§a✦ Gym is now open! §7Earning §a+%s§7/s",
+  "tycoon.gym.closed": "§c✦ Gym is now closed.",
+  "tycoon.gym.status_open": "§a✦ Gym: OPEN §8| §7Income rate: §a+%s§7/s",
+  "tycoon.gym.status_closed": "§c✦ Gym: CLOSED §8| §7Income rate: §a+%s§7/s",
+
+  "tycoon.cmd.no_player": "Run from a command block: /tycoon gym %s <player>",
+  "tycoon.error.unknown_action": "§c[TycoonCore] Unknown sabotage action: %s",
+  "tycoon.tech.self_repair": "§c[Technician] §7You cannot repair your own sabotage with this kit.",
+
+  "tycoon.equipment.started": "§a[Gym] §7Exercise started. §8Press Shift to stop.",
+  "tycoon.equipment.stopped": "§c[Gym] §7Exercise stopped.",
+  "tycoon.equipment.in_use": "§c[Gym] §7This machine is already in use.",
+  "tycoon.equipment.hint": "§8Press §eShift §8to stop exercising.",
+
+  "block.tycooncore.dumbbell_bench": "Dumbbell Bench",
+  "block.tycooncore.treadmill": "Treadmill",
+  "block.tycooncore.bench_press": "Bench Press",
+  "block.tycooncore.cable_machine": "Cable Machine",
+
+  "block.tycooncore.locker": "Locker",
+  "block.tycooncore.gym_bench": "Gym Bench",
+  "block.tycooncore.weight_rack": "Weight Rack",
+  "block.tycooncore.weight_tree": "Weight Tree",
+  "block.tycooncore.cross_trainer": "Cross Trainer",
+  "block.tycooncore.power_rack": "Power Rack",
+  "block.tycooncore.gym_treadmill": "Treadmill",
+  "block.tycooncore.weight_bench": "Weight Bench",
+  "block.tycooncore.weights": "Weights",
+  "block.tycooncore.weights_dirt": "Dirty Weights",
+
+  "tycoon.fitness.display_name": "Fitness",
+
+  "item.tycooncore.supervisor_clipboard": "Supervisor Clipboard",
+  "item.tycooncore.supervisor_clipboard.tooltip": "§7Right-click a player to approve their tier-up.",
+
+  "pc.tier_ready": "§e[Tier Up] §7You have completed all required upgrades! Find a supervisor to advance to the next tier.",
+
+  "tycoon.supervisor.self": "§c[Supervisor] §7You cannot use this on yourself.",
+  "tycoon.supervisor.already_max_tier": "§c[Supervisor] §7%s is already at the maximum tier.",
+  "tycoon.supervisor.not_ready": "§c[Supervisor] §7%s is not ready yet. Progress: §e%s§7/§e%s§7 upgrades.",
+  "tycoon.supervisor.restarted": "§e[Supervisor] §7Restarting approval countdown for %s.",
+  "tycoon.supervisor.cancelled_by_supervisor": "§e[Supervisor] §7Cancelled approval for %s.",
+  "tycoon.supervisor.cancelled": "§c[Supervisor] §7Your tier-up approval was cancelled.",
+  "tycoon.supervisor.already_max": "§c[Supervisor] §7This player cannot advance further.",
+  "tycoon.supervisor.started_supervisor": "§a[Supervisor] §7Starting %s-second tier-up countdown for %s.",
+  "tycoon.supervisor.started_target": "§a[Supervisor] §7%s has approved your tier-up! Advancing in §e%s§a seconds...",
+  "tycoon.supervisor.countdown": "§6⏱ §eTier-Up in §6%s§es...",
+  "tycoon.supervisor.approved": "§a[Supervisor] §7%s has been promoted to §eTier %s§7!"
+}

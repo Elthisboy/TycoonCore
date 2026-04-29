@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tycooncore:block/cable_machine" },
+    "facing=east":  { "model": "tycooncore:block/cable_machine", "y": 90 },
+    "facing=south": { "model": "tycooncore:block/cable_machine", "y": 180 },
+    "facing=west":  { "model": "tycooncore:block/cable_machine", "y": 270 }
+  }
+}

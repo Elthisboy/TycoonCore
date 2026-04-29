@@ -1,0 +1,215 @@
+{
+  "block.tycooncore.pc_block": "PC",
+  "screen.tycooncore.pc": "Fitness-Studio-Verwaltung",
+
+  "pc.title": "Fitness-Studio PC",
+  "pc.loading": "Daten werden geladen…",
+
+  "pc.bossbar": "Stufe %s | Fortschritt: %s/%s",
+  "pc.bossbar.max": "Stufe %s | ★ MAX STUFE ★",
+
+  "pc.category.visual": "Optisch",
+  "pc.category.staff": "Personal",
+  "pc.category.passive_income": "Passives Einkommen",
+  "pc.category.stat": "Statistiken",
+
+  "pc.footer.tier": "Stufe: %s",
+  "pc.footer.progress": "Fortschritt: %s/%s",
+  "pc.footer.balance": "Guthaben: %s",
+
+  "pc.label.level": "Lv. %s",
+  "pc.label.max": "MAX",
+  "pc.label.cost": "Kosten: %s",
+
+  "pc.button.buy": "Kaufen",
+  "pc.button.maxed": "Maximal",
+  "pc.button.locked": "Gesperrt",
+
+  "pc.error.not_enough_money": "Nicht genug Geld.",
+  "pc.error.max_level": "Dieses Upgrade ist bereits auf dem Höchstlevel.",
+  "pc.error.requires_tier": "Erfordert Stufe %s.",
+  "pc.error.unknown_upgrade": "Unbekanntes Upgrade.",
+  "pc.error.scoreboard_not_found": "Wirtschafts-Scoreboard nicht gefunden. Bitte einen Admin.",
+  "pc.error.server_unavailable": "Server nicht verfügbar.",
+
+  "pc.tier_up": "Stufe aufgestiegen! Du bist jetzt Stufe %s.",
+  "pc.upgrade.purchased": "%s gekauft (Level %s).",
+
+  "pc.upgrade.floor_upgrade.name": "Boden-Upgrade",
+  "pc.upgrade.floor_upgrade.desc": "Verbessere den Boden deines Studios. Bessere Böden ziehen mehr Kunden an.",
+
+  "pc.upgrade.wall_upgrade.name": "Wand-Upgrade",
+  "pc.upgrade.wall_upgrade.desc": "Renoviere die Wände für ein professionelleres Erscheinungsbild.",
+
+  "pc.upgrade.lighting_upgrade.name": "Beleuchtungs-Upgrade",
+  "pc.upgrade.lighting_upgrade.desc": "Installiere bessere Beleuchtung für eine angenehme Atmosphäre.",
+
+  "pc.upgrade.equipment_upgrade.name": "Geräte-Upgrade",
+  "pc.upgrade.equipment_upgrade.desc": "Verbessere deine Studiogeräte, um ernsthafte Sportler anzuziehen.",
+
+  "pc.upgrade.floor_t2.name": "Premium-Boden",
+  "pc.upgrade.floor_t2.desc": "Verlege hochwertigen Boden in deinem neuen Studio.",
+  "pc.upgrade.wall_t2.name": "Moderne Wände",
+  "pc.upgrade.wall_t2.desc": "Renoviere die Wände des zweiten Studios mit Premium-Materialien.",
+  "pc.upgrade.exterior_upgrade.name": "Außen-Upgrade",
+  "pc.upgrade.exterior_upgrade.desc": "Verbessere das Äußere deines Studios. Der erste Eindruck zählt.",
+
+  "pc.upgrade.trainer.name": "Personal Trainer",
+  "pc.upgrade.trainer.desc": "Stelle einen Personal Trainer ein, um die Kundenzufriedenheit und Einnahmen zu steigern.",
+  "pc.upgrade.trainer_t2.name": "Personal Trainer",
+  "pc.upgrade.trainer_t2.desc": "Stelle einen Personal Trainer für das neue Studio ein.",
+
+  "pc.upgrade.manager.name": "Studio-Manager",
+  "pc.upgrade.manager.desc": "Ein Manager sorgt für einen reibungslosen Ablauf und reduziert Ausfallzeiten.",
+
+  "pc.upgrade.nutritionist.name": "Ernährungsberater",
+  "pc.upgrade.nutritionist.desc": "Biete Ernährungsberatung an, um Kunden länger zu halten.",
+
+  "pc.upgrade.marketing.name": "Marketingkampagne",
+  "pc.upgrade.marketing.desc": "Starte Kampagnen, um neue Kunden zu gewinnen und das passive Einkommen zu steigern.",
+
+  "pc.upgrade.income_basic.name": "Basiseinkommensquelle",
+  "pc.upgrade.income_basic.desc": "Richte eine einfache passive Einkommensquelle für dein Studio ein.",
+
+  "pc.upgrade.income_advanced.name": "Erweiterte Einkommensquelle",
+  "pc.upgrade.income_advanced.desc": "Diversifiziere das Einkommen mit Mitgliedsplänen und Merchandise.",
+
+  "pc.upgrade.income_premium.name": "Premium-Einkommensquelle",
+  "pc.upgrade.income_premium.desc": "Schalte Premium-Dienste wie VIP-Mitgliedschaften und Events frei.",
+
+  "pc.upgrade.speed_boost.name": "Schnelligkeitstraining",
+  "pc.upgrade.speed_boost.desc": "Schnellerer Service bedeutet zufriedenere Kunden und mehr Einkommen pro Sekunde.",
+
+  "pc.upgrade.efficiency.name": "Effizienztraining",
+  "pc.upgrade.efficiency.desc": "Optimiere den Studiobetrieb — weniger Verschwendung, mehr Einnahmen.",
+
+  "pc.upgrade.production_rate.name": "Produktionsrate",
+  "pc.upgrade.production_rate.desc": "Bringe die Leistung deines Studios an die Grenzen und verdiene mehr pro Sekunde.",
+
+  "pc.upgrade.better_equipment.name": "Bessere Geräte",
+  "pc.upgrade.better_equipment.desc": "Rüste auf Premium-Maschinen auf, die ernsthafte Sportler anziehen.",
+
+  "pc.upgrade.decoration.name": "Studio-Dekoration",
+  "pc.upgrade.decoration.desc": "Gib deinem Studio ein poliertes Aussehen. Kunden bleiben länger.",
+
+  "pc.upgrade.premium_equipment.name": "Premium-Geräte",
+  "pc.upgrade.premium_equipment.desc": "Installiere Elite-Ausrüstung. Nur die besten Studios haben sie.",
+
+  "pc.upgrade.full_gym.name": "Vollständiges Studio",
+  "pc.upgrade.full_gym.desc": "Biete ein komplettes Studioangebot an — jeder Kunde findet genau das Richtige.",
+
+  "pc.upgrade.elite_trainer.name": "Elite-Trainer",
+  "pc.upgrade.elite_trainer.desc": "Stelle einen Weltklasse-Trainer ein. Der Ruf steigt, Einnahmen folgen.",
+
+  "pc.upgrade.senior_manager.name": "Senior-Manager",
+  "pc.upgrade.senior_manager.desc": "Ein erfahrener Manager optimiert jeden Aspekt des Studiobetriebs.",
+
+  "pc.upgrade.vip_lounge.name": "VIP-Lounge",
+  "pc.upgrade.vip_lounge.desc": "Eröffne eine exklusive Lounge für Top-Mitglieder. Premium-Kunden zahlen Premium-Preise.",
+
+  "pc.upgrade.head_coach.name": "Cheftrainer",
+  "pc.upgrade.head_coach.desc": "Ernenne einen Meisterschafts-Cheftrainer. Das beste Talent strömt in dein Studio.",
+
+  "pc.upgrade.sponsorship.name": "Sponsoring-Deal",
+  "pc.upgrade.sponsorship.desc": "Sichere dir Unternehmenssponsoren. Markengeld fließt jede Sekunde.",
+
+  "pc.command.event.sabotage": "/pc event sabotage <Ziel> [Dauer] [Strafe]",
+  "pc.command.event.recovery": "/pc event recovery <Ziel> <Bonus>",
+  "pc.command.event.mission":  "/pc event mission <Ziel> <Belohnung> <Fortschritt>",
+
+  "item.tycooncore.repair_kit": "Reparaturset",
+  "item.tycooncore.repair_kit.tooltip": "§7Benutze es am PC, um einen Teil der Strafe zu zahlen und die Sabotage zu lösen.",
+  "item.tycooncore.technician_repair_kit": "Techniker-Reparaturset",
+  "item.tycooncore.technician_repair_kit.tooltip": "§7Rechtsklick auf einen sabotierten Spieler, um seine Systeme als Techniker zu reparieren.",
+
+  "pc.boot.offline": "§8— SYSTEM OFFLINE —",
+  "pc.boot.power_on": "§8● §2EINSCHALTEN",
+  "pc.boot.power_on_hover": "§a● §2EINSCHALTEN",
+  "pc.boot.hint": "§8Klicken zum Starten",
+
+  "pc.sabotage.title": "§c⚠ §f§lSYSTEM KOMPROMITTIERT §c⚠",
+  "pc.sabotage.subtitle": "§7Passives Einkommen ist §cblockiert",
+  "pc.sabotage.tech_called": "§e⚙ Techniker gerufen — §7warte auf Ankunft...",
+  "pc.sabotage.expires": "§8Läuft ab in: §e%ss",
+  "pc.sabotage.btn.pay": "§cZahlen §6(%s)",
+  "pc.sabotage.btn.kit": "§bRep.-Set",
+  "pc.sabotage.btn.called": "§a✓ Gerufen",
+  "pc.sabotage.btn.tech": "§eTechn. rufen",
+
+  "pc.footer.blocked": "§c⚠ §c§lGESPERRT",
+  "pc.footer.max_tier": "§6✦ §eMAX STUFE",
+
+  "tycoon.sabotage.started": "§c[Sabotage] §7Dein Studio wurde kompromittiert! Passives Einkommen ist §cblockiert§7. Löse es in §e%ss§7 oder verliere §c%s§7.",
+  "tycoon.sabotage.pay.no_money": "§c[Sabotage] §7Du brauchst §c%s§7 für Reparaturen. (Du hast §c%s§7)",
+  "tycoon.sabotage.pay.resolved": "§a[Sabotage] §7Du hast §c%s§7 für Notfallreparaturen bezahlt. Systeme wiederhergestellt!",
+  "tycoon.sabotage.item.no_kit": "§c[Sabotage] §7Du brauchst §e1 Reparaturset§7 im Inventar.",
+  "tycoon.sabotage.item.resolved": "§a[Sabotage] §7Reparaturset benutzt, um sabotierte Systeme zu reparieren. Alles gut!",
+  "tycoon.sabotage.tech.already_called": "§e[Sabotage] §7Du hast bereits einen Techniker gerufen. Warte auf Ankunft.",
+  "tycoon.sabotage.tech.requested": "§e[Sabotage] §7Techniker angefordert! Ein Techniker kommt zu deinem Studio. §8(Bleib beim PC)",
+  "tycoon.sabotage.tech.broadcast": "§e[Techniker] §f%s §7hat einen Techniker für ihre Sabotage angefordert. Benutze das §eTechniker-Kit§7 zur Reparatur.",
+  "tycoon.sabotage.tech.no_active": "§c[Techniker] §7%s hat keine aktive Sabotage.",
+  "tycoon.sabotage.tech.resolved_victim": "§a[Sabotage] §7Techniker §f%s§7 hat deine Systeme repariert. Einkommen wiederhergestellt!",
+  "tycoon.sabotage.tech.confirmed": "§a[Techniker] §7Reparatur abgeschlossen für §f%s§7. Gute Arbeit!",
+  "tycoon.sabotage.expired": "§c[Sabotage] §7Zeit abgelaufen! §c%s§7 wurden als Strafe abgezogen.",
+
+  "tycoon.income.blocked": "§c⚠ §7Studioeinkommen blockiert — löse die Sabotage!",
+  "tycoon.income.tick": "§a+%s§7/s",
+  "tycoon.income.no_scoreboard": "§c[Gym] §7Wirtschafts-Scoreboard nicht konfiguriert. Kontaktiere einen Admin.",
+  "tycoon.income.increase": "§a[Einkommen] §7+%s %s/s hinzugefügt — jetzt §a+%s§7/s",
+
+  "tycoon.night.login_closed": "§c[Gym] §7Dein Studio war geöffnet, aber es ist jetzt Nacht. §8Öffne bei Sonnenaufgang erneut.",
+  "tycoon.night.closed": "§c✦ [Gym] §7Die Nacht ist hereingebrochen! Dein Studio hat geschlossen. §8Öffne bei Sonnenaufgang.",
+  "tycoon.night.dawn": "§e✦ [Gym] §7Der Morgen ist angebrochen! Du kannst dein Studio jetzt öffnen.",
+  "tycoon.night.blocked": "§c[Gym] §7Du kannst das Studio nicht nachts öffnen. Warte auf den Sonnenaufgang!",
+
+  "tycoon.gym.already_open": "§e[Gym] §7Dein Studio ist bereits geöffnet.",
+  "tycoon.gym.already_closed": "§e[Gym] §7Dein Studio ist bereits geschlossen.",
+  "tycoon.gym.opened": "§a✦ Studio jetzt geöffnet! §7Verdiene §a+%s§7/s",
+  "tycoon.gym.closed": "§c✦ Studio geschlossen.",
+  "tycoon.gym.status_open": "§a✦ Gym: GEÖFFNET §8| §7Einkommensrate: §a+%s§7/s",
+  "tycoon.gym.status_closed": "§c✦ Gym: GESCHLOSSEN §8| §7Einkommensrate: §a+%s§7/s",
+
+  "tycoon.cmd.no_player": "Über Befehlsblock ausführen: /tycoon gym %s <Spieler>",
+  "tycoon.error.unknown_action": "§c[TycoonCore] Unbekannte Sabotage-Aktion: %s",
+  "tycoon.tech.self_repair": "§c[Techniker] §7Du kannst deine eigene Sabotage nicht mit diesem Kit reparieren.",
+
+  "tycoon.equipment.started": "§a[Gym] §7Training gestartet. §8Shift drücken zum Beenden.",
+  "tycoon.equipment.stopped": "§c[Gym] §7Training beendet.",
+  "tycoon.equipment.in_use": "§c[Gym] §7Dieses Gerät ist bereits in Benutzung.",
+  "tycoon.equipment.hint": "§8Drücke §eShift §8um das Training zu beenden.",
+
+  "block.tycooncore.dumbbell_bench": "Hantelbank",
+  "block.tycooncore.treadmill": "Laufband",
+  "block.tycooncore.bench_press": "Bankdrücken",
+  "block.tycooncore.cable_machine": "Kabelzug-Maschine",
+
+  "block.tycooncore.locker": "Spind",
+  "block.tycooncore.gym_bench": "Fitnessbank",
+  "block.tycooncore.weight_rack": "Hantelständer",
+  "block.tycooncore.weight_tree": "Gewichtsbaum",
+  "block.tycooncore.cross_trainer": "Crosstrainer",
+  "block.tycooncore.power_rack": "Power Rack",
+  "block.tycooncore.gym_treadmill": "Laufband",
+  "block.tycooncore.weight_bench": "Hantelbank",
+  "block.tycooncore.weights": "Gewichte",
+  "block.tycooncore.weights_dirt": "Schmutzige Gewichte",
+
+  "tycoon.fitness.display_name": "Fitness-Wert",
+
+  "item.tycooncore.supervisor_clipboard": "Supervisor-Klemmbrett",
+  "item.tycooncore.supervisor_clipboard.tooltip": "§7Rechtsklick auf einen Spieler, um seinen Tier-Aufstieg zu genehmigen.",
+
+  "pc.tier_ready": "§e[Tier-Aufstieg] §7Du hast alle erforderlichen Upgrades abgeschlossen! Finde einen Supervisor, um zum nächsten Tier aufzusteigen.",
+
+  "tycoon.supervisor.self": "§c[Supervisor] §7Du kannst das nicht an dir selbst verwenden.",
+  "tycoon.supervisor.already_max_tier": "§c[Supervisor] §7%s ist bereits auf dem maximalen Tier.",
+  "tycoon.supervisor.not_ready": "§c[Supervisor] §7%s ist noch nicht bereit. Fortschritt: §e%s§7/§e%s§7 Upgrades.",
+  "tycoon.supervisor.restarted": "§e[Supervisor] §7Countdown für %s wird neu gestartet.",
+  "tycoon.supervisor.cancelled_by_supervisor": "§e[Supervisor] §7Genehmigung für %s abgebrochen.",
+  "tycoon.supervisor.cancelled": "§c[Supervisor] §7Deine Tier-Aufstiegsgenehmigung wurde abgebrochen.",
+  "tycoon.supervisor.already_max": "§c[Supervisor] §7Dieser Spieler kann nicht weiter aufsteigen.",
+  "tycoon.supervisor.started_supervisor": "§a[Supervisor] §7Starte §e%s§a-Sekunden-Countdown für %s.",
+  "tycoon.supervisor.started_target": "§a[Supervisor] §7%s hat deinen Tier-Aufstieg genehmigt! Aufstieg in §e%s§a Sekunden...",
+  "tycoon.supervisor.countdown": "§6⏱ §eTier-Aufstieg in §6%s§es...",
+  "tycoon.supervisor.approved": "§a[Supervisor] §7%s wurde zu §eTier %s§7 befördert!"
+}

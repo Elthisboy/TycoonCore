@@ -1,0 +1,215 @@
+{
+  "block.tycooncore.pc_block": "PC",
+  "screen.tycooncore.pc": "Gestión del PC",
+
+  "pc.title": "PC de Gestión del Gimnasio",
+  "pc.loading": "Cargando datos…",
+
+  "pc.bossbar": "T%s | Progreso: %s/%s",
+  "pc.bossbar.max": "T%s | ★ NIVEL MÁXIMO ★",
+
+  "pc.category.visual": "Visual",
+  "pc.category.staff": "Personal",
+  "pc.category.passive_income": "Ingresos",
+  "pc.category.stat": "Estadísticas",
+
+  "pc.footer.tier": "Tier: %s",
+  "pc.footer.progress": "Progreso: %s/%s",
+  "pc.footer.balance": "Balance: %s",
+
+  "pc.label.level": "Nv. %s",
+  "pc.label.max": "MÁX",
+  "pc.label.cost": "Costo: %s",
+
+  "pc.button.buy": "Comprar",
+  "pc.button.maxed": "Máximo",
+  "pc.button.locked": "Bloqueado",
+
+  "pc.error.not_enough_money": "Dinero insuficiente.",
+  "pc.error.max_level": "Esta mejora ya está al nivel máximo.",
+  "pc.error.requires_tier": "Requiere Tier %s.",
+  "pc.error.unknown_upgrade": "Mejora desconocida.",
+  "pc.error.scoreboard_not_found": "Marcador de economía no encontrado. Contacta a un administrador.",
+  "pc.error.server_unavailable": "Servidor no disponible.",
+
+  "pc.tier_up": "¡Subida de Tier! Ahora eres Tier %s.",
+  "pc.upgrade.purchased": "Comprado %s (Nivel %s).",
+
+  "pc.upgrade.floor_upgrade.name": "Suelo Mejorado",
+  "pc.upgrade.floor_upgrade.desc": "Mejora el suelo de tu gimnasio. Un mejor suelo atrae más clientes.",
+
+  "pc.upgrade.wall_upgrade.name": "Paredes Mejoradas",
+  "pc.upgrade.wall_upgrade.desc": "Renueva las paredes para un aspecto más profesional.",
+
+  "pc.upgrade.lighting_upgrade.name": "Iluminación Mejorada",
+  "pc.upgrade.lighting_upgrade.desc": "Instala mejor iluminación para mejorar el ambiente.",
+
+  "pc.upgrade.equipment_upgrade.name": "Equipamiento Básico",
+  "pc.upgrade.equipment_upgrade.desc": "Mejora el equipamiento de tu gimnasio para atraer atletas serios.",
+
+  "pc.upgrade.floor_t2.name": "Suelo Premium",
+  "pc.upgrade.floor_t2.desc": "Instala suelo de alta calidad en tu nuevo gimnasio.",
+  "pc.upgrade.wall_t2.name": "Paredes Modernas",
+  "pc.upgrade.wall_t2.desc": "Renueva las paredes del segundo gimnasio con materiales premium.",
+  "pc.upgrade.exterior_upgrade.name": "Exterior Mejorado",
+  "pc.upgrade.exterior_upgrade.desc": "Mejora el exterior de tu gimnasio. Las primeras impresiones importan.",
+
+  "pc.upgrade.trainer.name": "Entrenador Personal",
+  "pc.upgrade.trainer.desc": "Contrata un entrenador personal para aumentar la satisfacción e ingresos.",
+  "pc.upgrade.trainer_t2.name": "Entrenador Personal",
+  "pc.upgrade.trainer_t2.desc": "Contrata un entrenador personal para el nuevo gimnasio.",
+
+  "pc.upgrade.manager.name": "Gerente de Gimnasio",
+  "pc.upgrade.manager.desc": "Un gerente mantiene todo en orden y reduce el tiempo de inactividad.",
+
+  "pc.upgrade.nutritionist.name": "Nutricionista",
+  "pc.upgrade.nutritionist.desc": "Ofrece asesoría nutricional para retener clientes por más tiempo.",
+
+  "pc.upgrade.marketing.name": "Campaña de Marketing",
+  "pc.upgrade.marketing.desc": "Lanza campañas para atraer nuevos clientes y aumentar ingresos pasivos.",
+
+  "pc.upgrade.income_basic.name": "Ingresos Básicos",
+  "pc.upgrade.income_basic.desc": "Configura una fuente básica de ingresos pasivos para tu gimnasio.",
+
+  "pc.upgrade.income_advanced.name": "Ingresos Avanzados",
+  "pc.upgrade.income_advanced.desc": "Diversifica ingresos con membresías y merchandising.",
+
+  "pc.upgrade.income_premium.name": "Ingresos Premium",
+  "pc.upgrade.income_premium.desc": "Desbloquea servicios premium como membresías VIP y eventos.",
+
+  "pc.upgrade.speed_boost.name": "Entrenamiento de Velocidad",
+  "pc.upgrade.speed_boost.desc": "Un servicio más rápido significa clientes más felices y más ingresos.",
+
+  "pc.upgrade.efficiency.name": "Entrenamiento de Eficiencia",
+  "pc.upgrade.efficiency.desc": "Optimiza las operaciones del gimnasio: menos desperdicios, más ingresos.",
+
+  "pc.upgrade.better_equipment.name": "Mejor Equipamiento",
+  "pc.upgrade.better_equipment.desc": "Mejora a máquinas premium que atraen atletas serios y aumentan ingresos.",
+
+  "pc.upgrade.decoration.name": "Decoración del Gimnasio",
+  "pc.upgrade.decoration.desc": "Dale un aspecto impecable a tu gimnasio. Los clientes permanecen más tiempo.",
+
+  "pc.upgrade.premium_equipment.name": "Equipamiento Premium",
+  "pc.upgrade.premium_equipment.desc": "Instala equipo de élite. Solo los mejores gimnasios lo tienen.",
+
+  "pc.upgrade.full_gym.name": "Gimnasio Completo",
+  "pc.upgrade.full_gym.desc": "Ofrece una experiencia completa: cada cliente encuentra lo que necesita.",
+
+  "pc.upgrade.elite_trainer.name": "Entrenador de Élite",
+  "pc.upgrade.elite_trainer.desc": "Contrata un entrenador de talla mundial. La reputación se dispara.",
+
+  "pc.upgrade.senior_manager.name": "Gerente Senior",
+  "pc.upgrade.senior_manager.desc": "Un gerente veterano optimiza cada aspecto de las operaciones del gimnasio.",
+
+  "pc.upgrade.vip_lounge.name": "Sala VIP",
+  "pc.upgrade.vip_lounge.desc": "Abre una sala exclusiva para miembros premium. Clientes de élite, precios de élite.",
+
+  "pc.upgrade.head_coach.name": "Entrenador Jefe",
+  "pc.upgrade.head_coach.desc": "Nombra un entrenador jefe de nivel campeón. El mejor talento viene a tu gimnasio.",
+
+  "pc.upgrade.sponsorship.name": "Patrocinio",
+  "pc.upgrade.sponsorship.desc": "Consigue patrocinadores corporativos. El dinero de las marcas llega cada segundo.",
+
+  "pc.upgrade.production_rate.name": "Tasa de Producción",
+  "pc.upgrade.production_rate.desc": "Lleva el rendimiento de tu gimnasio al límite absoluto y gana más por segundo.",
+
+  "pc.command.event.sabotage": "/pc event sabotage <objetivo> [duración] [penalización]",
+  "pc.command.event.recovery": "/pc event recovery <objetivo> <bonus>",
+  "pc.command.event.mission":  "/pc event mission <objetivo> <recompensa> <progreso>",
+
+  "item.tycooncore.repair_kit": "Kit de Reparaciones",
+  "item.tycooncore.repair_kit.tooltip": "§7Úsalo en el PC para pagar parte de la penalización y resolver el sabotaje.",
+  "item.tycooncore.technician_repair_kit": "Kit de Reparaciones para Técnicos",
+  "item.tycooncore.technician_repair_kit.tooltip": "§7Click derecho en un jugador saboteado para reparar sus sistemas como técnico.",
+  "item.tycooncore.supervisor_clipboard.tooltip": "§7Click derecho en un jugador para aprobar su ascenso de tier.",
+
+  "pc.boot.offline": "§8— SISTEMA APAGADO —",
+  "pc.boot.power_on": "§8● §2ENCENDER",
+  "pc.boot.power_on_hover": "§a● §2ENCENDER",
+  "pc.boot.hint": "§8Haz clic para iniciar",
+
+  "pc.sabotage.title": "§c⚠ §f§lSISTEMA COMPROMETIDO §c⚠",
+  "pc.sabotage.subtitle": "§7Los ingresos pasivos están §cbloqueados",
+  "pc.sabotage.tech_called": "§e⚙ Técnico llamado — §7esperando llegada...",
+  "pc.sabotage.expires": "§8Expira en: §e%ss",
+  "pc.sabotage.btn.pay": "§cPagar §6(%s)",
+  "pc.sabotage.btn.kit": "§bKit Rep.",
+  "pc.sabotage.btn.called": "§a✓ Llamado",
+  "pc.sabotage.btn.tech": "§eLlamar Téc.",
+
+  "pc.footer.blocked": "§c⚠ §c§lBLOQUEADO",
+  "pc.footer.max_tier": "§6✦ §eNIVEL MÁX.",
+
+  "tycoon.sabotage.started": "§c[Sabotaje] §7¡Tu gimnasio ha sido comprometido! Los ingresos pasivos están §cbloqueados§7. Resuélvelo en §e%ss§7 o perderás §c%s§7.",
+  "tycoon.sabotage.pay.no_money": "§c[Sabotaje] §7Necesitas §c%s§7 para pagar las reparaciones. (Tienes §c%s§7)",
+  "tycoon.sabotage.pay.resolved": "§a[Sabotaje] §7Pagaste §c%s§7 por reparaciones de emergencia. ¡Sistemas restaurados!",
+  "tycoon.sabotage.item.no_kit": "§c[Sabotaje] §7Necesitas §e1 Kit de Reparaciones§7 en tu inventario para usar esta solución.",
+  "tycoon.sabotage.item.resolved": "§a[Sabotaje] §7Usaste un §eKit de Reparaciones§7 para arreglar los sistemas saboteados. ¡Todo bien!",
+  "tycoon.sabotage.tech.already_called": "§e[Sabotaje] §7Ya llamaste a un técnico. Espera a que llegue.",
+  "tycoon.sabotage.tech.requested": "§e[Sabotaje] §7¡Técnico solicitado! Un técnico vendrá a revisar tu gimnasio. §8(Quédate cerca del PC)",
+  "tycoon.sabotage.tech.broadcast": "§e[Técnico] §f%s §7ha solicitado un técnico para su sabotaje. Usa el §eKit Técnico§7 para ir a reparar.",
+  "tycoon.sabotage.tech.no_active": "§c[Técnico] §7%s no tiene sabotaje activo.",
+  "tycoon.sabotage.tech.resolved_victim": "§a[Sabotaje] §7El técnico §f%s§7 ha reparado tus sistemas. ¡Ingresos restaurados!",
+  "tycoon.sabotage.tech.confirmed": "§a[Técnico] §7Reparación completada para §f%s§7. ¡Buen trabajo!",
+  "tycoon.sabotage.expired": "§c[Sabotaje] §7¡Tiempo agotado! §c%s§7 han sido deducidos como penalización.",
+
+  "tycoon.income.blocked": "§c⚠ §7Ingresos bloqueados — ¡resuelve el sabotaje!",
+  "tycoon.income.tick": "§a+%s§7/s",
+  "tycoon.income.no_scoreboard": "§c[Gym] §7Marcador de economía no configurado. Contacta a un administrador.",
+  "tycoon.income.increase": "§a[Ingresos] §7+%s %s/s añadidos — ahora §a+%s§7/s",
+
+  "tycoon.night.login_closed": "§c[Gym] §7Tu gimnasio estaba abierto pero ahora es de noche. §8Vuelve a abrirlo al amanecer.",
+  "tycoon.night.closed": "§c✦ [Gym] §7¡Ha caído la noche! Tu gimnasio ha cerrado. §8Ábrelo al amanecer para seguir ganando.",
+  "tycoon.night.dawn": "§e✦ [Gym] §7¡Ha amanecido! Ya puedes abrir tu gimnasio.",
+  "tycoon.night.blocked": "§c[Gym] §7No puedes abrir el gimnasio de noche. ¡Espera al amanecer!",
+
+  "tycoon.gym.already_open": "§e[Gym] §7Tu gimnasio ya está abierto.",
+  "tycoon.gym.already_closed": "§e[Gym] §7Tu gimnasio ya está cerrado.",
+  "tycoon.gym.opened": "§a✦ ¡Gimnasio abierto! §7Ganando §a+%s§7/s",
+  "tycoon.gym.closed": "§c✦ Gimnasio cerrado.",
+  "tycoon.gym.status_open": "§a✦ Gym: ABIERTO §8| §7Ingresos: §a+%s§7/s",
+  "tycoon.gym.status_closed": "§c✦ Gym: CERRADO §8| §7Ingresos: §a+%s§7/s",
+
+  "tycoon.cmd.no_player": "Ejecuta desde un bloque de comandos: /tycoon gym %s <jugador>",
+  "tycoon.error.unknown_action": "§c[TycoonCore] Acción de sabotaje desconocida: %s",
+  "tycoon.tech.self_repair": "§c[Técnico] §7No puedes reparar tu propio sabotaje con este kit.",
+
+  "tycoon.equipment.started": "§a[Gym] §7Ejercicio iniciado. §8Presiona Shift para detenerte.",
+  "tycoon.equipment.stopped": "§c[Gym] §7Ejercicio detenido.",
+  "tycoon.equipment.in_use": "§c[Gym] §7Esta máquina ya está en uso.",
+  "tycoon.equipment.hint": "§8Presiona §eShift §8para dejar de ejercitarte.",
+
+  "block.tycooncore.dumbbell_bench": "Banco de Mancuernas",
+  "block.tycooncore.treadmill": "Caminadora",
+  "block.tycooncore.bench_press": "Press de Banca",
+  "block.tycooncore.cable_machine": "Máquina de Cables",
+
+  "block.tycooncore.locker": "Taquilla",
+  "block.tycooncore.gym_bench": "Banco de Gimnasio",
+  "block.tycooncore.weight_rack": "Rack de Pesas",
+  "block.tycooncore.weight_tree": "Árbol de Pesas",
+  "block.tycooncore.cross_trainer": "Elíptica",
+  "block.tycooncore.power_rack": "Power Rack",
+  "block.tycooncore.gym_treadmill": "Cinta de Correr",
+  "block.tycooncore.weight_bench": "Banco de Pesas",
+  "block.tycooncore.weights": "Pesas",
+  "block.tycooncore.weights_dirt": "Pesas Sucias",
+
+  "tycoon.fitness.display_name": "Ejercitado",
+
+  "item.tycooncore.supervisor_clipboard": "Portapapeles del Supervisor",
+
+  "pc.tier_ready": "§e[Subida de Tier] §7¡Has completado todas las mejoras requeridas! Busca a un supervisor para subir al siguiente tier.",
+
+  "tycoon.supervisor.self": "§c[Supervisor] §7No puedes usarlo contigo mismo.",
+  "tycoon.supervisor.already_max_tier": "§c[Supervisor] §7%s ya está en el tier máximo.",
+  "tycoon.supervisor.not_ready": "§c[Supervisor] §7%s no está listo. Progreso: §e%s§7/§e%s§7 mejoras.",
+  "tycoon.supervisor.restarted": "§e[Supervisor] §7Reiniciando cuenta regresiva de aprobación para %s.",
+  "tycoon.supervisor.cancelled_by_supervisor": "§e[Supervisor] §7Cancelada la aprobación de %s.",
+  "tycoon.supervisor.cancelled": "§c[Supervisor] §7Tu aprobación de subida de tier fue cancelada.",
+  "tycoon.supervisor.already_max": "§c[Supervisor] §7Este jugador no puede avanzar más.",
+  "tycoon.supervisor.started_supervisor": "§a[Supervisor] §7Iniciando cuenta de §e%s§a segundos para %s.",
+  "tycoon.supervisor.started_target": "§a[Supervisor] §7¡%s ha aprobado tu subida de tier! Subiendo en §e%s§a segundos...",
+  "tycoon.supervisor.countdown": "§6⏱ §eSubida de Tier en §6%s§es...",
+  "tycoon.supervisor.approved": "§a[Supervisor] §7¡%s ha ascendido al §eTier %s§7!"
+}

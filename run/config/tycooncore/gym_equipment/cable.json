@@ -1,0 +1,24 @@
+{
+  "animationSpeed": 1.0,
+  "loopDuration": 30,
+  "lockPlayer": true,
+  "sounds": {
+    "enabled": true,
+    "soundId": "minecraft:block.piston.extend",
+    "volume": 0.3,
+    "pitch": 1.3,
+    "intervalTicks": 15
+  },
+  "commands": {
+    "enabled": false,
+    "source": "player",
+    "onStart": [],
+    "onTick": [],
+    "onStop": []
+  },
+  "visualEffects": {
+    "particles": false,
+    "particleType": "minecraft:sweat_droplets",
+    "highlight": false
+  }
+}

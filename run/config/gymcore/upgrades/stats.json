@@ -1,0 +1,40 @@
+[
+  {
+    "id": "efficiency",
+    "category": "Stat",
+    "max_level": 3,
+    "base_cost": 2000,
+    "cost_multiplier": 1.6,
+    "required_tier": 2,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "title",
+        "value": "§e§lEfficiency Upgraded!",
+        "params": { "subtitle": "§7Level {level} — optimised workflow, more revenue", "stay": "60" }
+      }
+    ],
+    "effects": { "income_bonus": 15 }
+  },
+  {
+    "id": "production_rate",
+    "category": "Stat",
+    "max_level": 3,
+    "base_cost": 10000,
+    "cost_multiplier": 1.7,
+    "required_tier": 3,
+    "counts_for_progress": true,
+    "actions": [
+      {
+        "type": "broadcast",
+        "value": "§b[Gym] §e{player}§7 boosted production rate to §bLevel {level}§7!"
+      },
+      {
+        "type": "title",
+        "value": "§b§lProduction Rate Up!",
+        "params": { "subtitle": "§7Level {level} — maximum output reached", "stay": "60" }
+      }
+    ],
+    "effects": { "income_bonus": 40 }
+  }
+]

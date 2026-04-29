@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "tycooncore:block/treadmill" },
+    "facing=east":  { "model": "tycooncore:block/treadmill", "y": 90 },
+    "facing=south": { "model": "tycooncore:block/treadmill", "y": 180 },
+    "facing=west":  { "model": "tycooncore:block/treadmill", "y": 270 }
+  }
+}
